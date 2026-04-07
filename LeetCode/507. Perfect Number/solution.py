@@ -4,7 +4,7 @@ class Solution:
             return False
 
         total = 1
-i = 2
+        i = 2
 
         while i * i <= num:
             if num % i == 0:
